@@ -1,0 +1,153 @@
+* {
+	box-sizing: border-box;
+}
+
+h1 {
+  font-family: "Chiller", sans-serif;
+  font-size: 400%;  
+  color: #8c001a;
+  text-align: center;
+}
+
+body {
+	background-color: #fff;
+
+}
+
+p {
+	padding: 10px;
+	margin: 0;
+}
+
+.container {
+	border: none;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+
+section {
+	border:	5px dotted red;
+	border-radius: 60px 15px;
+	background-color: #d6eaf8;
+	width: 100%;
+	height: auto;
+	font-family: Magneto;
+	color: black;
+	position: relative;
+	overflow: auto;
+}
+
+#samsung {
+
+	text-align: center;
+	color: #e42217;
+	font-family: Algerian, Helvetica, sans-serif; 
+	/* font-family: 'Press Start 2P', cursive; */
+	font-weight: bold;
+	font-size: 250%;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+
+}
+
+#apple {
+	text-align: center;
+	color: #347c2c;
+	font-family: Algerian, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 250%;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+}
+
+#oneplus {
+	text-align: center;
+	color: #ffa500;
+	font-family: Algerian, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 250%;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+}
+
+#samsung-div {
+  margin-bottom: 35px;
+  margin-top: 10px;
+}
+
+#apple-div {
+  margin-bottom: 35px;
+  margin-top: 10px;
+}
+
+#oneplus-div {
+  margin-bottom: 35px;
+  margin-top: 10px;
+}
+
+.navbar-brand {
+  font-size: 2em;
+  border: 0 0 10px 10px;
+  color: #85c1e9;
+}
+
+#header-nav {
+  border: 50px;
+  background-color: #581845;
+  color: #FFFFFF;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1.5px solid #fff;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+.nav-header {
+  background-color: #FFFFFF;
+}
+
+.nav-brand {
+  color: #3498db;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 1.3em;
+  text-transform: uppercase;
+}
+
+#nav-list {
+  color: white;
+}
+
+hr {
+  border-color: white;
+}
+
+.item {
+  color: #d7dbdd;
+  font-family: Algerian, Helvetica, sans-serif;
+  padding-top: 25px;
+  font-size: 1.8em;
+}
+.back-top:hover, .back-top:focus {
+	text-decoration: none;
+	color: red;
+	/*font-family: Old English text MT,  sans-serif;*/
+  }
+
+.back-top {
+	font-weight: bold;
+	font-size: 145%;
+	color: #8e44ad;
+	padding-top: 30px;
+	padding-bottom: 15px;
+	/* font-family: 'Press Start 2P', cursive; */
+	font-family: 'Federant', cursive;
+  }
